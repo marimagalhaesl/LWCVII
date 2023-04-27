@@ -1,0 +1,12 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+
+h1 {
+    font-weight: bold;
+}
